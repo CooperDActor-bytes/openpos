@@ -1,0 +1,6 @@
+echo off
+cd \apps\pcany
+aw /O:H /M:A
+cd \login
+ebmenu.bat
+
