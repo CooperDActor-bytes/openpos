@@ -1,15 +1,9 @@
 # openpos
-a free pos system
-
-open pos is a developing pos system in the world
-
-funding has not been delivered 
+a free pos system: Based Off EBCOM
 
 
 
-
-Do Not Put malicious content in the code
-
+Feel Free To Do what You Want
 
 
-thanks cooper
+Cooper: Ex-EagleBoy
