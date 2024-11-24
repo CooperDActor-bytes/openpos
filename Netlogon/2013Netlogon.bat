@@ -10,7 +10,7 @@ if %COMPUTERNAME% == SERVER GOTO NO_EDRIVE
 rem set up drives
 rem **************
 net use h: /d
-REM net use h: \\ws1\AussiePizzaCo
+REM net use h: \\ws1\OpenPOS
 rem net use z: /d
 rem Net use z: \\ws1\screensaver
 net time \\ws1 /SET /YES
